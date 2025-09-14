@@ -38,9 +38,9 @@ Colaboración real 👥: trabajamos en equipo con nuestros clientes como aliados
 ---
 
 ## 📬 Contacto  
-📧 Correo: [codeazstudio@gmail.com]  
+📧 Correo: codeazstudio@gmail.com 
 💼 LinkedIn: [linkedin.com/company/codeazstudioo](https://www.linkedin.com/company/codeazstudioo/?viewAsMember=true)  
-🌍 Web: [en construcción 🚧]  
+🌍 Web: en construcción 🚧 
 
 ---
 

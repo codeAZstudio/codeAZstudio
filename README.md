@@ -1,7 +1,6 @@
 # ![codeazstudioo_cover](https://github.com/user-attachments/assets/6b9a5510-a04d-4e71-b5ec-3463f573b290)
 
-
-## 💎 Propuesta de Valor  
+ 
 En **codeAZstudio** no solo construimos software, **creamos experiencias digitales** que combinan **estrategia, tecnología y marketing** para convertir tus ideas en productos reales.  
 
 - Acompañamos desde la idea hasta el lanzamiento.  

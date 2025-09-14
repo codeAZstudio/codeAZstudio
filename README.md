@@ -11,7 +11,8 @@ En **codeAZstudio** no solo construimos software, **creamos experiencias digital
 ---
 
 ## 🧩 Nuestros valores  
-Cercanía 🤝: tratamos cada proyecto como si fuera propio, acompañando de principio a fin.
+
+ Cercanía 🤝: tratamos cada proyecto como si fuera propio, acompañando de principio a fin.
 
 Innovación práctica 💡: usamos la tecnología de manera útil y enfocada en resultados.
 
@@ -19,7 +20,7 @@ Transparencia 📢: comunicación clara, acuerdos justos y sin sorpresas.
 
 Excelencia ágil ⚡: entregamos rápido, con calidad profesional y procesos simples.
 
-Colaboración real 👥: trabajamos en equipo con nuestros clientes como aliados, no como proveedores  
+Colaboración real 👥: trabajamos en equipo con nuestros clientes como aliados, no como proveedores.
 
 ---
 
